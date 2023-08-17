@@ -1,0 +1,16 @@
+.image{
+    justify-content:center;
+    align-items:center;
+    width:300px;
+    height:400px; 
+    margin-left:30px;
+    box-shadow: 0 4px 8px rgba(0,0,0,.3);
+}
+body{
+    background-color: burlywood;
+}
+h3{
+    font-family: 'Times new roman' bold;
+    color: darkblue;
+
+}
