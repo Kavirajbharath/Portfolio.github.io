@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, orangered,yellow);
+}
+h1{
+    font-family: 'times new roman';
+    text-align: center;
+    position: flex;
+    color: darkred;
+    margin-top: 60px;
+}
+q{
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    color: blue;
+    opacity: 0.90;
+    margin-left: 4%;
+}
+blockquote{
+    font-family: 'Times New Roman';
+    line-height: 30px;
+    word-spacing: 3px;
+    font-size: 18px;
+    color: rgb(2, 1, 69);
+}
